@@ -13,13 +13,9 @@ Before running this project, make sure you have the following installed:
 
 1. Clone the repository:
 
-   ```shell
+```shell
    git clone https://github.com/your-username/image-generation-dalle.git
-
-
-   GitHub Copilot: Sure! Here's a sample README file for your project:
-
-```markdown
+```
 # Image Generation with DALL·E
 
 This project allows you to generate images using the DALL·E model. DALL·E is a neural network model developed by OpenAI that can generate images from textual prompts.
